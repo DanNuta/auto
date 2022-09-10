@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  },
+
+  "script": {
+    "start": "tsc -w"
+  }
+
+}
